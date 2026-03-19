@@ -8,7 +8,7 @@
 
 <div align="center">
   <!-- GitHub Streak Graph -->
-  <img src="https://streak-stats.demolab.com?user=MalakSherif2&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=MalakSherif2&theme=dracula&hide_border=false&border_radius=5&count_private=true" height="150" alt="GitHub streak graph" />
 
   <!-- Spacer -->
   <span style="display:inline-block;width:20px;"></span>

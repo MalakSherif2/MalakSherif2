@@ -12,15 +12,6 @@
 
   <!-- Spacer -->
   <span style="display:inline-block;width:20px;"></span>
-
-  <!-- GitHub Stats Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
-
-  <!-- Spacer -->
-  <span style="display:inline-block;width:20px;"></span>
-
-  <!-- Top Languages Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top languages" />
 </div>
 
 ###
@@ -74,15 +65,17 @@
 <img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk0ZzBiaDhqNng0MzBoYmV0cTBib3R2bXBvMTYwdHcwZHU3cmkxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif"  />
 
 ###
+<div align="center">
+  <!-- GitHub Stats Graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/output/pacman-contribution-graph.svg">
-  <!-- Pacman Contribution Graph -->
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/main/output/pacman-contribution-graph.svg" width="100%" /></picture>
+  <!-- Spacer -->
+  <span style="display:inline-block;width:20px;"></span>
 
-###
-
+  <!-- Top Languages Graph -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top languages" />
+  
+ </div>
 <!--
 **MalakSherif2/MalakSherif2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,7 +7,20 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MalakSherif2&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!-- GitHub Streak Graph -->
+  <img src="https://streak-stats.demolab.com?user=MalakSherif2&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+
+  <!-- Spacer -->
+  <span style="display:inline-block;width:20px;"></span>
+
+  <!-- GitHub Stats Graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
+
+  <!-- Spacer -->
+  <span style="display:inline-block;width:20px;"></span>
+
+  <!-- Top Languages Graph -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top languages" />
 </div>
 
 ###
@@ -17,7 +30,7 @@
 ###
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/MalakSherif2](https://www.linkedin.com/in/malak-sherif-b03138357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/malak-sherif-b03138357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:malaksherif375@gmail.com">

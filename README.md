@@ -79,7 +79,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/output/pacman-contribution-graph.svg">
   <!-- Pacman Contribution Graph -->
-<img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/main/output/pacman-contribution-graph.svg" width="100%" /></picture>
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/main/output/pacman-contribution-graph.svg" width="100%" /></picture>
 
 ###
 

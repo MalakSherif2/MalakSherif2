@@ -78,7 +78,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/output/pacman-contribution-graph.svg">
+  <img alt="https://github.com/MalakSherif2/MalakSherif2/blob/main/pacman-contribution-graph.svg.gif" src="https://raw.githubusercontent.com/MalakSherif2/MalakSherif2/output/pacman-contribution-graph.svg">
 </picture>
 
 ###

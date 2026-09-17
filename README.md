@@ -8,7 +8,7 @@
 
 <div align="center">
   <!-- GitHub Streak Graph -->
-  <img src="https://streak-stats.demolab.com?user=MalakSherif2&theme=dracula&hide_border=false&border_radius=5&count_private=true" height="150" alt="GitHub streak graph" />
+  <img src="pacman-contribution-graph.svg.gif" height="150" alt="GitHub streak graph" />
 
   <!-- Spacer -->
   <span style="display:inline-block;width:20px;"></span>

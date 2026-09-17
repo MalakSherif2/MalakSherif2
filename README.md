@@ -73,7 +73,7 @@
   <span style="display:inline-block;width:20px;"></span>
 
   <!-- Top Languages Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top languages" />
+  <img src="pacman-contribution-graph.svg.gif" />
   
  </div>
 <!--

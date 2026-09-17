@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Malak Sherif</h1>
-  <h3>Machine Learning Engineer 💻 | Data Analyst 📊</h3>
+  <h3> Data Analyst 📊|Machine Learning Engineer 💻 </h3>
   
   <p>
     <a href="https://www.linkedin.com/in/malak-sherif-b03138357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">

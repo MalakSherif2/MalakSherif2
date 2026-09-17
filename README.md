@@ -29,20 +29,24 @@
 
 <div align="center">
   <!-- Pacman Graph -->
-  <img src="pacman-contribution-graph.svg.gif" width="100%" max-height="160" alt="GitHub pacman graph" />
+  <img src="pacman-contribution-graph.svg.gif" width="100%" alt="GitHub pacman graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
+  
+  &nbsp;
   
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalakSherif2&theme=dracula" height="150" alt="GitHub streak stats" />
   
+  &nbsp;
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&theme=dracula&hide=html,css" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&theme=dracula&hide=html,css" height="150" alt="Top Languages" />
 </div>
 
 <hr />

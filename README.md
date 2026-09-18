@@ -33,13 +33,13 @@
     <td valign="top" width="30%">
       <img src="pacman-contribution-graph.svg.gif" width="100%" alt="GitHub pacman graph" />
     </td>
-    <!-- الكروت الثلاثة على اليمين بأداء مستقر -->
+    <!-- الكروت الثلاثة على اليمين بأداء مستقر جداً -->
     <td valign="top" width="70%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalakSherif2&theme=dracula" height="130" alt="GitHub streak stats" />
       <br /><br />
-      <img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="130" alt="GitHub stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="130" alt="GitHub stats" />
       <br /><br />
-      <img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&theme=dracula&hide=html,css" height="130" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&theme=dracula&hide=html,css" height="130" alt="Top Languages" />
     </td>
   </tr>
 </table>

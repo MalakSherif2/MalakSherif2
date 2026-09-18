@@ -27,22 +27,20 @@
 
 ### 📊 GitHub Analytics
 
-<!-- Pacman Graph -->
-<div align="left">
-  <img src="pacman-contribution-graph.svg.gif" width="300" alt="GitHub pacman graph" style="max-width: 100%; height: auto;" />
-</div>
+<table border="0">
+  <tr>
+    <!-- صورة البطريق / Pacman على اليسار -->
+    <td valign="top" width="30%">
+      <img src="pacman-contribution-graph.svg.gif" width="100%" alt="GitHub pacman graph" />
+    </td>
+    <!-- الكروت الثلاثة جنب بعض على اليمين -->
+    <td valign="top" width="70%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalakSherif2&theme=dracula" height="130" alt="GitHub streak stats" />
+      <br /><br />
+      <img src="https://github-readme-stats.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="130" alt="GitHub stats" />
+      <br /><br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&theme=dracula&hide=html,css" height="130" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<br />
-
-<!-- GitHub Cards Side-by-Side (جنباً إلى جنب) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalakSherif2&theme=dracula" height="150" alt="GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&theme=dracula&hide=html,css" height="150" alt="Top Languages" />
-</p>
-
-<hr />
-
-<div align="center">
-  <img height="140" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk0ZzBiaDhqNng0MzBoYmV0cTBib3R2bXBvMTYwdHcwZHU3cmkxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Coding GIF" />
-</div>

@@ -27,23 +27,19 @@
 
 ### 📊 GitHub Analytics
 
+<!-- Pacman Graph -->
 <div align="left">
   <img src="pacman-contribution-graph.svg.gif" width="300" alt="GitHub pacman graph" style="max-width: 100%; height: auto;" />
 </div>
 
 <br />
 
-<div align="center">
+<!-- GitHub Cards Side-by-Side (جنباً إلى جنب) -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalakSherif2&theme=dracula" height="150" alt="GitHub streak stats" />
-  
-  <br /><br />
-
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
-  
-  <br /><br />
-
-  <img src="https://github-readme-stats-anuraghazra1.vercelapp/api/top-langs/?username=MalakSherif2&layout=compact&theme=dracula&hide=html,css" height="150" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MalakSherif2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSherif2&layout=compact&theme=dracula&hide=html,css" height="150" alt="Top Languages" />
+</p>
 
 <hr />
 
